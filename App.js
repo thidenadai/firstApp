@@ -13,7 +13,7 @@ export default function App() {
         <Text style={styles.texto2}>33</Text>
       </View>
       <View style={styles.fourthContainer}>
-        <Text style={styles.texto3}>33</Text>
+        <Text style={styles.texto3}>7</Text>
       </View>
       <View style={styles.fifthContainer}>
         <Text style={styles.texto4}>desafio criterio critico</Text>
